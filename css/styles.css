@@ -1,0 +1,41 @@
+.fondo-db{
+    background-color: rgb(214, 114, 43);
+}
+
+.letras-blancas{
+    color: aliceblue;
+}
+
+.active-white{
+    color: aliceblue;
+    font-weight: bold;
+}
+
+.recortar{
+	width: 200px;
+	height: 400px;
+	object-fit: cover;
+}
+
+.color-cream{
+    background-color: rgb(255, 249, 240);
+}
+
+.icono{
+    height: 4rem;
+
+}
+
+.mi-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.mi-flex{
+    display: flex;
+    align-items: center;
+}
+
+.font-title{
+    font-family: 'Honk', system-ui;
+}
